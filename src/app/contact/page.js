@@ -44,7 +44,7 @@ const howToOrderSchema = getHowToSchema({
     },
     {
       name: "Submit your enquiry",
-      text: "Submit the form or contact Orbitto International directly at orbittointernational@gmail.com or +91 99047 27348 with your requirements.",
+      text: "Submit the form or contact Orbitto International directly at export@orbittointernational.com or +91 99047 27348 with your requirements.",
     },
     {
       name: "Receive a commercial response",

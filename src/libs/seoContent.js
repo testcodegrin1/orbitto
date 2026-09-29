@@ -103,7 +103,7 @@ export const contactFaqItems = [
   {
     question: "How do I request a product sample from Orbitto International?",
     answer:
-      "Contact Orbitto International via the contact form or email at orbittointernational@gmail.com. Specify the product category, intended application, and destination country. The team will respond with sample availability and next steps.",
+      "Contact Orbitto International via the contact form or email at export@orbittointernational.com. Specify the product category, intended application, and destination country. The team will respond with sample availability and next steps.",
   },
   {
     question: "Can international buyers from any country contact Orbitto International?",
@@ -179,7 +179,7 @@ export const buildProductDetailFaqItems = (productTitle, categoryName) => [
   },
   {
     question: `How do I request specifications or a sample of ${productTitle}?`,
-    answer: `Contact Orbitto International via the contact page or at orbittointernational@gmail.com with your product interest, application details, and destination. The team will respond with specifications, sample availability, and commercial next steps for ${productTitle}.`,
+    answer: `Contact Orbitto International via the contact page or at export@orbittointernational.com with your product interest, application details, and destination. The team will respond with specifications, sample availability, and commercial next steps for ${productTitle}.`,
   },
   {
     question: `What certifications or quality standards apply to ${productTitle}?`,

@@ -31,8 +31,8 @@ const HeaderTop = () => {
                   </Link>
                 </li>
                 <li>
-                  <Link href="mailto:orbittointernational@gmail.com">
-                    <i className="icon-mail"></i> orbittointernational@gmail.com
+                  <Link href="mailto:export@orbittointernational.com">
+                    <i className="icon-mail"></i> export@orbittointernational.com
                   </Link>
                 </li>
               </ul>

@@ -69,8 +69,8 @@ const FooterAbout2 = () => {
               </div>
               <div className="footer-address-info">
                 <p>
-                  <Link href="mailto:orbittointernational@gmail.com">
-                    orbittointernational@gmail.com
+                  <Link href="mailto:export@orbittointernational.com">
+                    export@orbittointernational.com
                   </Link>
                 </p>
               </div>

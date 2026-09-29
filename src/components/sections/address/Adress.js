@@ -56,7 +56,7 @@ const Adress = () => {
               </div>
               <h3>Email Address</h3>
               <p>
-                orbittointernational@gmail.com
+                export@orbittointernational.com
               </p>
             </div>
           </div>

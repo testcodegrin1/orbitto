@@ -137,11 +137,11 @@ const MobileMenu = () => {
             <span>{officeAddress3}</span>
           </Link>
           <Link
-            href="mailto:orbittointernational@gmail.com"
+            href="mailto:export@orbittointernational.com"
             className="mobile-sidebar-contact-link"
           >
             <i className="icon-mail"></i>
-            <span>orbittointernational@gmail.com</span>
+            <span>export@orbittointernational.com</span>
           </Link>
         </div>
 

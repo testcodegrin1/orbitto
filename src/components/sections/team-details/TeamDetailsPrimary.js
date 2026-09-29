@@ -104,7 +104,7 @@ const TeamDetailsPrimary = () => {
                   <div className="ltn__team-details-member-about">
                     <ul>
                       <li>
-                        <strong>Email:</strong> orbittointernational@gmail.com
+                        <strong>Email:</strong> export@orbittointernational.com
                       </li>
                       <li>
                         <strong>Fax:</strong> +0123-456 789

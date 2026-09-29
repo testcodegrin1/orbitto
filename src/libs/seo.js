@@ -7,7 +7,7 @@ import {
 
 export const brandName = "Orbitto International";
 export const brandShortName = "Orbitto";
-export const brandEmail = "orbittointernational@gmail.com";
+export const brandEmail = "export@orbittointernational.com";
 export const primaryPhone = "+91 99047 27348";
 export const defaultOgImage = "/img/banner/banner-2.webp";
 export const defaultDescription =
