@@ -4,7 +4,7 @@ const coreValues = [
   {
     icon: "far fa-gem",
     title: "Purity",
-    desc: "Natural, safe, and carefully processed ingredients with no compromise on quality.",
+    desc: "Natural, safe, and carefully sourced ingredients with no compromise on quality.",
     tone: "lavender",
   },
   {
@@ -25,7 +25,7 @@ const missionVision = [
   {
     icon: "fas fa-bullseye",
     title: "Mission",
-    desc: "To enhance everyday nutrition by producing dependable natural powders and ingredients that combine purity, consistency, and modern food-processing standards.",
+    desc: "To enhance everyday nutrition by supplying dependable natural powders and ingredients that combine purity, consistency, and modern global supply standards.",
   },
   {
     icon: "fas fa-atom",
@@ -57,9 +57,9 @@ const companyOwners = [
 
 const companyHighlights = [
   {
-    icon: "fas fa-industry",
-    title: "Manufacturer",
-    subtitle: "MANUFACTURER, SUPPLIER & EXPORT",
+    icon: "fas fa-hands-helping",
+    title: "Global Supplier",
+    subtitle: "SOURCING, SUPPLIER & EXPORTER",
   },
   {
     icon: "fas fa-certificate",
@@ -82,9 +82,9 @@ const fortes = [
 ];
 
 const qualityPoints = [
-  "Achieving high levels of customer satisfaction by building quality and food safety into every process.",
+  "Achieving high levels of customer satisfaction by building quality and food safety into every step of supply.",
   "Continual improvement of our quality and food safety management systems through team-wide participation.",
-  "Consistently meeting changing customer needs with compliant, reliable, and hygienic production standards.",
+  "Consistently meeting changing customer needs with compliant, reliable, and hygienic sourcing standards.",
 ];
 
 const AboutPageSequence = () => {
@@ -106,14 +106,10 @@ const AboutPageSequence = () => {
             <span className="about-sequence__eyebrow">About Us</span>
             <h2>ORBITTO INTERNATIONAL</h2>
             <p>
-              Orbitto International is focused on natural fruit, vegetable,
-              herbal, spice, and specialty powders for modern food, beverage,
-              wellness, and manufacturing needs.
+              Orbitto International is focused on natural fruit, vegetable, herbal, spice, and specialty powders for modern food, beverage, wellness, and industrial supply needs.
             </p>
             <p>
-              With a strong focus on purity, consistency, and client support,
-              we help brands source dependable ingredients that are practical
-              for production and aligned with global quality expectations.
+              With a strong focus on purity, consistency, and client support, we help brands source dependable ingredients that are practical for commercial applications and aligned with global quality expectations.
             </p>
           </div>
         </div>
@@ -168,7 +164,7 @@ const AboutPageSequence = () => {
         <div className="about-sequence__container">
           <div className="about-quality__heading">
             <span className="about-sequence__eyebrow">Quality &amp; Food safety</span>
-            <h2>What we do to ensure process and product quality</h2>
+            <h2>What we do to ensure supply and product quality</h2>
             <p>
               Food safety is not a destination for us, but a journey of continual
               improvement and development. We follow high standards across all
@@ -189,9 +185,7 @@ const AboutPageSequence = () => {
 
             <div className="about-quality__content">
               <p>
-                At Orbitto, we are dedicated to manufacturing spray-dried food
-                ingredients with hygienic processing, careful controls, and
-                quality-first execution to achieve measurable consistency.
+               At Orbitto, we are dedicated to supplying spray-dried food ingredients with hygienic handling, careful controls, and quality-first execution to achieve measurable consistency.
               </p>
               <ul>
                 {qualityPoints.map((point) => (
@@ -230,8 +224,7 @@ const AboutPageSequence = () => {
               sustainable practices and dependable ingredient sourcing.
             </p>
             <p>
-              Our quality control process helps ensure every Orbitto product is
-              handled with care and meets the standards our customers expect.
+              Our quality control system helps ensure every Orbitto product is handled with care and meets the standards our customers expect.
             </p>
           </div>
         </div>
@@ -245,8 +238,7 @@ const AboutPageSequence = () => {
               <h2>Orbitto&rsquo;s Forte</h2>
             </div>
             <p>
-              A practical foundation for consistent sourcing, processing, and
-              delivery across every Orbitto ingredient solution.
+              A practical foundation for consistent sourcing, handling, and delivery across every Orbitto ingredient solution.
             </p>
           </div>
 

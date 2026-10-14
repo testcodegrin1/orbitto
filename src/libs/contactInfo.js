@@ -6,8 +6,6 @@ export const locationName = "Orbitto International";
 export const officeAddressTitle = "Marketing Head Office";
 export const officeAddress =
   "SHOP NO-104, FIRST FLOOR, ROYAL SHOPPING CENTER, RAFALESHWAR INDUSTRIAL ESTATE, 8-A NATIONAL HIGHWAY, AT JAMBUDIYA, MORBI, GUJARAT, 363642";
-export const manufacturingAddressTitle = "Manufacturing unit";
-export const officeAddress2 = "NH-27, Wankaner, Morbi, Gujarat-363621";
 export const officeAddress3 = "ROYAL SHOPPING CENTER, RAFALESHWAR 8-A NATIONAL HIGHWAY MORBI";
 
 export const mapEmbedUrl =

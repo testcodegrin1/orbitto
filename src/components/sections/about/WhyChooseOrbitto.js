@@ -15,7 +15,7 @@ const slides = [
       {
         icon: "fas fa-project-diagram",
         title: "Versatile Range",
-        desc: "From fruit, vegetable, and herbal powders to taste enhancers, dairy, and functional blends, we cover modern food production needs.",
+        desc: "From fruit, vegetable, and herbal powders to taste enhancers, dairy, and functional blends, we cover modern food industry needs.",
       },
       {
         icon: "fas fa-award",
@@ -129,8 +129,7 @@ const WhyChooseOrbitto = () => {
           <span>Why Us</span>
           <h2>WHY CHOOSE ORBITTO?</h2>
           <p>
-            Because we are built around quality, flexibility, and the needs of
-            modern food production.
+           Because we are built around quality, flexibility, and the needs of modern food supply and sourcing.
           </p>
         </div>
 

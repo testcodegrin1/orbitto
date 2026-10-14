@@ -232,11 +232,6 @@ export const getOrganizationSchema = () => ({
       name: locationName,
       address: officeAddress,
     },
-    {
-      "@type": "Place",
-      name: "Orbitto Manufacturing Unit",
-      address: officeAddress2,
-    },
   ],
 });
 

@@ -7,7 +7,7 @@ const expertiseItems = [
   {
     icon: "fas fa-award",
     title: "Consistent Quality",
-    desc: "Export-grade sourcing, processing, and supply of fruit powders, vegetable powders, spices, honey, and herbal ingredients.",
+    desc: "Export-grade sourcing, packaging, and supply of fruit powders, vegetable powders, spices, honey, and herbal ingredients.",
   },
   {
     icon: "fas fa-globe-asia",

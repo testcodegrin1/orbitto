@@ -83,12 +83,7 @@ const Adress = () => {
                   <br />
                   <span>{officeAddress3}</span>
                   <br />
-                  <br />
-                  <strong className="contact-address-title">
-                    {manufacturingAddressTitle} :
-                  </strong>
-                  <br />
-                  <span>{officeAddress2}</span>
+                  
                 </Link>
               </p>
             </div>

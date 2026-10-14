@@ -23,10 +23,7 @@ const About5 = ({ pt }) => {
                 </h6>
                 <h2 className="section-title">Orbitto International</h2>
                 <p>
-                  Orbitto International is an export-focused manufacturer of
-                  spray-dried fruit powders, vegetable powders, spices, honey,
-                  and specialty ingredients for food, beverage, nutraceutical,
-                  and private label buyers worldwide.
+                  We source fresh ingredients from trusted farms and partner processors across India, ensuring every batch meets strict quality standards for bulk ingredient supply. Our dehydrated powders and spice blends are ideal for food applications, beverage production, nutraceutical uses, and private label branding for international markets.
                 </p>
               </div>
             </div>

@@ -3,13 +3,13 @@ import Image from "next/image";
 const offerings = [
   {
     icon: "fas fa-building",
-    title: "Contract Manufacturing",
-    desc: "End-to-end food ingredient production support for global food brands and importers seeking reliable manufacturing from India.",
+    title: "Global Sourcing Solutions",
+    desc: "End-to-end food ingredient sourcing support for global food brands and importers seeking reliable supply from India.",
   },
   {
     icon: "fas fa-hands-helping",
     title: "Private Label Solutions",
-    desc: "Launch your own food ingredient brand with customized formulations, private label packaging, and export-ready supply from Gujarat, India.",
+    desc: "Launch your own food ingredient brand with customized packaging, private labeling, and export-ready supply from Gujarat, India.",
   },
   {
     icon: "fas fa-ship",
@@ -18,8 +18,8 @@ const offerings = [
   },
   {
     icon: "fas fa-industry",
-    title: "Third-Party Manufacturing",
-    desc: "Scalable, cost-effective third-party food manufacturing for distributors, food brands, and nutraceutical companies sourcing from India.",
+    title: "Third-Party Fulfillment",
+    desc: "Scalable, cost-effective third-party merchant trading and merchant export for distributors, food brands, and nutraceutical companies sourcing from India.",
   },
 ];
 
@@ -29,7 +29,7 @@ const Offerings = () => {
       <div className="home-offerings__container">
         <div className="home-offerings__heading">
           <h2>Our Offerings</h2>
-          <p>Comprehensive Food Ingredient Manufacturing Solutions for Global Buyers</p>
+          <p>Comprehensive Food Ingredient Supply & Sourcing Solutions for Global Buyers</p>
         </div>
 
         <div className="home-offerings__grid">

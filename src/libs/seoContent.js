@@ -60,7 +60,7 @@ export const aboutFaqItems = [
   {
     question: "Where is Orbitto International located?",
     answer:
-      "Orbitto International is located in Morbi, Gujarat, India. The company operates a marketing head office in Morbi and a manufacturing unit in Wankaner, Morbi, Gujarat, supplying food ingredients for international export.",
+      "Orbitto International is located in Morbi, Gujarat, India. The company operates a marketing head office in Morbi.",
   },
   {
     question: "What makes Orbitto International relevant for international buyers?",
